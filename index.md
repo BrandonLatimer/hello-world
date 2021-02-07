@@ -1,3 +1,6 @@
-theme: jekyll-theme-modernist
-title: Welcome to Brandon's homepage!
-description: This is where I will be putting my software projects that I am proud of in hopes of getting noticed by job scouts! Feel free to read more to find out more about me!
+# Brandon Latimer
+
+Hello! This is my GitHub page! I am a Senior Computer Science major attending Boise State University.
+I plan on Graduating in Fall of 2022. I will slowly be building my software portfolio here on this page
+in hopes that job scouts will notice me! Thank you for visiting my page!
+-Brandon Latimer
